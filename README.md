@@ -1,4 +1,4 @@
-## Warrington Dog Walkers
+# Warrington Dog Walkers
 
 Simple static website created for a local business.
 
