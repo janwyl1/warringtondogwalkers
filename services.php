@@ -19,12 +19,14 @@
                 <div class="col-sm-6 mb-4">
                     <span class="display-2">£8</span>
                     <br>
-                    <h4>30 Minute Walk or Pop-in Visit</h4>
+                    <h4>30 Minute Walk or Pop-in visit</h4>
+                    <span class="lead">(£5 for each additional animal)</span>
                 </div>
                 <div class="col-sm-6">
                     <span class="display-2">£14</span>
                     <br>
-                    <h4>60 Minute Walk or Pop-in Visit</h4>
+                    <h4>60 Minute Walk or Pop-in visit</h4>
+                    <span class="lead">(£9 for each additional animal)</span>
                 </div>
             </div>      
             <hr class="mb-4">
