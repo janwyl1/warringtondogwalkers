@@ -17,16 +17,14 @@
              <p class="lead">We are fully flexible, any day of the week and any time of day. If you need multiple visits, or visits through the night, we would be more than happy to help.</p>
             <div class="row py-4 my-4 text-center">
                 <div class="col-sm-6 mb-4">
-                    <span class="display-2">£7</span>
+                    <span class="display-2">£8</span>
                     <br>
-                    <h4>30 Minute Walk or Pop-in visit</h4>
-                    <span class="lead">(£5 for each additional animal)</span>
+                    <h4>30 Minute Walk or Pop-in Visit</h4>
                 </div>
                 <div class="col-sm-6">
-                    <span class="display-2">£12</span>
+                    <span class="display-2">£14</span>
                     <br>
-                    <h4>60 Minute Walk or Pop-in visit</h4>
-                    <span class="lead">(£9 for each additional animal)</span>
+                    <h4>60 Minute Walk or Pop-in Visit</h4>
                 </div>
             </div>      
             <hr class="mb-4">
