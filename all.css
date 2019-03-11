@@ -416,7 +416,7 @@ h6, .h6 {
 }
 
 .display-4 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 300;
   line-height: 1.2;
 }
@@ -9095,6 +9095,16 @@ url("./fonts/icofont.woff") format("woff");
   content: "\f000";
 }
 
+.icofont-long-arrow-right:before
+{
+  content: "\ea94";
+}
+
+.icofont-arrow-right:before
+{
+  content: "\ea94";
+}
+
 .icofont-xs
 {
   font-size: .5em;
@@ -9304,10 +9314,10 @@ url("./fonts/icofont.woff") format("woff");
 }
 
 :root .icofont-rotate-90,
-	:root .icofont-rotate-180,
-	:root .icofont-rotate-270,
-	:root .icofont-flip-horizontal,
-	:root .icofont-flip-vertical
+  :root .icofont-rotate-180,
+  :root .icofont-rotate-270,
+  :root .icofont-flip-horizontal,
+  :root .icofont-flip-vertical
 {
   -webkit-filter: none;
   filter: none;
@@ -9332,7 +9342,7 @@ url("./fonts/icofont.woff") format("woff");
 }
 
 .sr-only-focusable:active,
-	.sr-only-focusable:focus
+  .sr-only-focusable:focus
 {
   clip: auto;
   height: auto;
@@ -9341,7 +9351,7 @@ url("./fonts/icofont.woff") format("woff");
   position: static;
   width: auto;
 }
-	
+  
 
 /* Google font https://fonts.googleapis.com/css?family=Itim */
 /* thai */
@@ -9381,7 +9391,10 @@ url("./fonts/icofont.woff") format("woff");
 /** 
 * CUSTOM STYLES 
 */
-
+/* 
+  COLORS
+    purple - #A12192    
+*/
 .about-us-card {
     width: 15.5rem;
     max-width: 15.5rem;
@@ -9390,22 +9403,41 @@ url("./fonts/icofont.woff") format("woff");
 
 .about-us-card:hover .card-body { background-color: #A12192 !important }
 
-/* 
-        COLORS
-        purple - #A12192    
-*/
-.bg-purple,
-.btn-outline-purple:hover {
+.display-4 {
+  font-size: 2.5rem;
+}
+
+.bg-purple {
     background-color: #A12192;
     border-color: #A12192;
     color: #fff;
 }
 
-.btn-outline-purple {
+.btn-purple {
+  background-color: #A12192;
+  border-color: #A12192;
+  color: #fff;
+}
+
+.btn-purple:hover, .btn-purple:active {
     color: #A12192;
     background-color: transparent;
-    background-image: none;
     border-color: #A12192;
+}
+
+.btn-secondary:hover, .btn-secondary:active {
+    color: #6c757d;
+    background-color: transparent;
+    background-image: none;
+    border-color: #6c757d;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: #A12192;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(33,37,41,0.7);
 }
 
 html {
@@ -9430,7 +9462,6 @@ a:hover {
 .main-heading {
     font-family: 'Itim', cursive;
 }
-
 
 /* Phone, email and social media links on contact page*/
 .contact-details {
@@ -9457,6 +9488,11 @@ a:hover {
     }
 }
 
+@media (min-width: 575.99px) {
+  .display-4 {
+    font-size: 3.5rem;
+  }
+}
 
 /* Control footer image at larger heights. Force it to bottom of page */
 @media (min-height: 650px) {

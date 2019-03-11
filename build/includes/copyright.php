@@ -1,0 +1,1 @@
+<div class="copyright text-center my-2"><small class="px-2">Copyright &copy; 2018 - <?php echo date("Y") ?> Warrington Dog Walkers. Site design by James Anwyl. <a href="./sitemap.xml" title="sitemap">Sitemap</a> - <a href="./privacy_policy">Privacy Policy</a></small></div>
