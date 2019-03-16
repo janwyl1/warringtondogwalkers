@@ -14,7 +14,7 @@
         </div>
       
         <h2 class="display-5 main-heading my-4">Dog Walking and Cat Sitting Services in Warrington</h2>
-        <p class="lead">We provide friendly and reliable <a class="font-weight-normal" href="./dog_walking" title="Dog Walking">dog walking</a> and <a class="font-weight-normal" href="./cat_sitting" title="Cat Sitting">cat sitting</a> services, that are tailored to suit you and your pet.</p>
+        <p class="lead">We provide friendly and reliable <a class="font-weight-normal" href="./dog-walking-warrington" title="Dog Walking">dog walking</a> and <a class="font-weight-normal" href="./cat-sitting-warrington" title="Cat Sitting">cat sitting</a> services, that are tailored to suit you and your pet.</p>
         <p class="lead">We make sure that your pet's needs come first and the time you book for your four-legged friend is time dedicated solely to your pet. From the moment we pick your pet up, to the time we drop them back off, we will treat them as our own.</p>
         <p class="lead pb-4 mb-4">You gain peace of mind, knowing that your pet is the only thing that we are thinking of.</p>
                 
@@ -53,7 +53,7 @@
           <footer class="blockquote-footer">Kate Parker <cite title="Source Title"><a href="https://www.google.com/maps/place/Warrington+Dog+Walkers/@53.3998141,-2.6615011,13z/data=!3m1!4b1!4m13!1m5!8m4!1e1!2s102856696462867624938!3m1!1e1!3m6!1s0x487b03a9956e2b25:0x49c35f3434c0f356!8m2!3d53.3997681!4d-2.6264818!9m1!1b1?hl=en-GB"><small>Google Reviews - Warrington Dog Walkers</small></a></cite></footer>
         </blockquote>
         
-        <a href="./contact_us" class="btn btn-lg btn-purple btn-block mx-auto p-4 mb-4 ">Arrange your FREE 'Meet and Greet' today!</a>
+        <a href="./contact-us" class="btn btn-lg btn-purple btn-block mx-auto p-4 mb-4 ">Arrange your FREE 'Meet and Greet' today!</a>
         </div>
     </div>
     <div class="container-fluid">

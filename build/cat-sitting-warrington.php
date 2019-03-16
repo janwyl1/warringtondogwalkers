@@ -1,4 +1,4 @@
-<?php $canonUrl = "https://warringtondogwalkers.com/cat_sitting";
+<?php $canonUrl = "https://warringtondogwalkers.com/cat-sitting-warrington";
     $metaDesc = "Quality Cat Sitting Services in Warrington. Tailored to suit you and your pet.";
     $pageTitle = "Quality Cat Sitting Services in Warrington";
 ?>
@@ -21,7 +21,7 @@
                 <p class="lead">Our 24/7 service, wealth of experience and willingness to go the extra mile is what makes us one of the best cat sitters in Warrington!</p>
             </div>
             <div class="col-lg-5 offset-lg-1 d-flex align-items-center justify-content-center flex-column">
-                <a href="./contact_us" class="btn btn-lg btn-block btn-secondary mx-auto p-4 mb-4" title="Contact Us">Contact Us &#xbb;</a>
+                <a href="./contact-us" class="btn btn-lg btn-block btn-secondary mx-auto p-4 mb-4" title="Contact Us">Contact Us &#xbb;</a>
                 <a href="./services" class="btn btn-lg btn-block btn-purple mx-auto p-4 mb-4" title="Find out more">Find Out More! &#xbb;</a>
             </div>
         </div>

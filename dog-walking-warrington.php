@@ -1,4 +1,4 @@
-<?php $canonUrl = "https://warringtondogwalkers.com/dog_walking";
+<?php $canonUrl = "https://warringtondogwalkers.com/dog-walking-warrington";
     $metaDesc = "We provide trusted, reliable dog walking services throughout Warrington.";
     $pageTitle = "Dog Walking Services from Warrington Dog Walkers";
 ?>
@@ -21,7 +21,7 @@
                 <p class="lead">If you are looking for a proven, trustworthy and reliable dog walker in Warrington, we are ready to help.</p>
             </div>
             <div class="col-lg-5 offset-lg-1 d-flex align-items-center justify-content-center flex-column">
-                <a href="./contact_us" class="btn btn-lg btn-block btn-secondary mx-auto p-4 mb-4" title="Contact Us">Contact Us &#xbb;</a>
+                <a href="./contact-us" class="btn btn-lg btn-block btn-secondary mx-auto p-4 mb-4" title="Contact Us">Contact Us &#xbb;</a>
                 <a href="./services" class="btn btn-lg btn-block btn-purple mx-auto p-4 mb-4" title="Find out more">Find Out More! &#xbb;</a>
             </div>
         </div>        

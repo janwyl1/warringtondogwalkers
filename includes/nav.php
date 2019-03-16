@@ -11,24 +11,24 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mr-auto ml-4">
                 <li class="nav-item">
-                    <a class="nav-link" href="./about_us" title="About Us">About Us</a>
+                    <a class="nav-link" href="./about-us" title="About Us">About Us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="./services" title="Services">Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./dog_walking" title="Dog Walking">Dog Walking</a>
+                    <a class="nav-link" href="./dog-walking-warrington" title="Dog Walking">Dog Walking</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./cat_sitting" title="Cat Sitting">Cat Sitting</a>
+                    <a class="nav-link" href="./cat-sitting-warrington" title="Cat Sitting">Cat Sitting</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./contact_us" title="Contact Us">Contact Us</a>
+                    <a class="nav-link" href="./contact-us" title="Contact Us">Contact Us</a>
                 </li>
             </ul>
             <ul class="navbar-nav">
                 <li>
-                    <a class="nav-link" href="./contact_us" title="Contact Us"><i class="icofont-phone"></i> 07914 251511</a>
+                    <a class="nav-link" href="./contact-us" title="Contact Us"><i class="icofont-phone"></i> 07914 251511</a>
                 </li>
                 <li>
                     <a class="nav-link" href="mailto:warringtondogwalkers@gmail.com" title="Contact Us"><i class="icofont-envelope"></i> warringtondogwalkers@gmail.com</a>
