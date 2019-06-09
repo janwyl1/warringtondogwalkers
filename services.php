@@ -76,7 +76,6 @@
               <div class="carousel-item mb-4">
                   <blockquote class="blockquote pb-4 mb-4 text-center lead">
                     <p style="font-size: 1.5em"><i class="icofont-star"></i> <i class="icofont-star"></i>  <i class="icofont-star"></i>  <i class="icofont-star"></i>  <i class="icofont-star"></i></p>  
-                    <p class="mb-1"><small class="font-weight-light">Absolutely amazing service from Sam and Rach, couldn't recommend enough!</small><p>
                     <p class="mb-1"><small class="font-weight-light">Both Rachel and Sam are really friendly, super reliable and are really flexible around my work calendar which is brilliant. They send professional invoices and reply instantly to any messages I send. They do an amazing job. Compared to dog walkers we’ve had in the past I would highly recommend Warrington Dog Walkers.</small></p>
                     <footer class="blockquote-footer">Christian <cite title="See all reviews on our Facebook page"><a href="https://www.facebook.com/pg/warringtondogwalkers/reviews/?ref=page_internal"><small>Facebook Reviews - Warrington Dog Walkers</small></a></cite></footer>
                   </blockquote>
