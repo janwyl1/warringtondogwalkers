@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="container-fluid">
-        <img src="./img/animalsSmall.jpg" style="width: 100%">
+        <img src="./img/animalsSmall.jpg" alt="Dogs, Cats, Small Animals" style="width: 100%">
     </div>
     
     <?php include('./includes/copyright.php'); ?>
