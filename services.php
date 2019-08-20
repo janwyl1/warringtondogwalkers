@@ -1,6 +1,6 @@
 <?php $canonUrl = "https://warringtondogwalkers.com/services";
-    $metaDesc = "Looking for a Dog Walker or Pet Sitter in Warrington? We provide walks and home visits at affordable prices. We understand each animal is unique and tailor our service to suit you and your pet.";
-    $pageTitle = "Warrington Dog Walkers - Dog Walking and Pet Sitting Services in Warrington";
+    $metaDesc = "Looking for a Dog Walker or Cat Sitter in Warrington? We provide a 5-star rated service, tailored to suit you and your pet.";
+    $pageTitle = "Warrington's #1 Dog Walking and Cat Sitting Service";
 ?>
 
 <?php include('./includes/header.php'); ?>

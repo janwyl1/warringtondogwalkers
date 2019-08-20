@@ -1,5 +1,5 @@
 <?php $canonUrl = "https://warringtondogwalkers.com/dog-walking-warrington";
-    $metaDesc = "We provide trusted, reliable dog walking services throughout Warrington.";
+    $metaDesc = "We provide trusted and reliable dog walking services throughout Warrington.";
     $pageTitle = "Dog Walking Services from Warrington Dog Walkers";
 ?>
 <?php include('./includes/header.php'); ?>
