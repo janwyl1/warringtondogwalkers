@@ -1,5 +1,5 @@
 <?php $canonUrl = "https://warringtondogwalkers.com/services";
-    $metaDesc = "We're passionate about pet care. Our service is friendly, reliable and 5-star rated. We go the extra mile to ensure your pet stays happy and healthy.";
+    $metaDesc = "Every animal is unique. Our 5-star rated service is tailored to suit you and your pet. We're flexible, affordable and available 24/7.";
     $pageTitle = "Warrington's #1 Dog Walking and Cat Sitting Service";
 ?>
 

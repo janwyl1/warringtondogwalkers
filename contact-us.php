@@ -1,6 +1,6 @@
 <?php $canonUrl = "https://warringtondogwalkers.com/contact_us";
-    $metaDesc = "Warrington Dog Walkers offers Pet Sitting and Dog Walking Services in Warrington. Call 07914 251511 for a free, no obligation, consultation.";
-    $pageTitle = "Call, email or find us on social media.";
+    $metaDesc = "For general enquiries, or to arrange your free 'meet and greet'. Call, email or find us on social media.";
+    $pageTitle = "Contact Warrington Dog Walkers";
 ?>
 
 

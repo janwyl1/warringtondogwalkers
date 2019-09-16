@@ -1,5 +1,5 @@
 <?php $canonUrl = "https://warringtondogwalkers.com/cat-sitting-warrington";
-    $metaDesc = "Quality Cat Sitting Services in Warrington. Tailored to suit you and your pet.";
+    $metaDesc = "Keeping a consistent routine is healthy for your cat. You can rely on us to provide quality care when you're not available.";
     $pageTitle = "Quality Cat Sitting Services in Warrington";
 ?>
 
@@ -15,7 +15,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6 mb-4">
-                <p class="lead">Keeping a consistent routine is healthy for your cat, and can help to reduce anxiety and stress.</p>
+                <p class="lead">Keeping a consistent routine is healthy for your cat, and can help to reduce stress and anxiety.</p>
                 <p class="lead">Our 5-star rated cat sitting service is tailored to your cat's personality and designed to keep them happy and content.</p>
                 <p class="lead">We cover all the basics, such as feeding, grooming and litter changes. We'll give them the exercise and play time they need, and provide as much, or as little attention as they desire.</p>
                 <p class="lead">Our 24/7 service, wealth of experience and willingness to go the extra mile is what makes us one of the best cat sitters in Warrington!</p>
