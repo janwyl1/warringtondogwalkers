@@ -90,7 +90,7 @@
                   </a>
               </div>
           </div>
-          <a href="./contact-us" class="btn btn-lg btn-purple btn-block mx-auto p-4 mb-4 ">Arrange your FREE 'Meet and Greet' today!</a>
+          <a href="./contact-us" class="btn btn-lg btn-purple btn-block mx-auto p-4 mb-4 ">Contact us to arrange your FREE 'Meet and Greet' today!</a>
       </div>
   </div>
   <div class="container-fluid">
