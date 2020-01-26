@@ -5,7 +5,7 @@ Simple static website created for a local business.
 Built with HTML, CSS, JS and PHP
 
 <img
-  width="500"
+  width="800"
   alt=""
   src="https://i.imgur.com/0Gz7PJM.png"
 />
