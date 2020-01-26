@@ -4,6 +4,12 @@ Simple static website created for a local business.
 
 Built with HTML, CSS, JS and PHP
 
+<img
+  width="500"
+  alt=""
+  src="https://i.imgur.com/0Gz7PJM.png"
+/>
+
 # [Live Site](https://warringtondogwalkers.com)
 
 
@@ -14,4 +20,3 @@ Built with HTML, CSS, JS and PHP
 <script async src="https://www.googletagmanager.com/gtag/js?id=KEY_HERE"></script>
 
 ```  
-
