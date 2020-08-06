@@ -12,7 +12,7 @@
                 <h1 class="display-4 main-heading my-4"><i class="icofont-paw d-none d-sm-inline"></i> About Us</h1>
             </div>
         </div>
-        <p class="lead">We are a reliable and trustworthy husband and wife team, both life-long locals, who know the local area well, including all of the nice spots for a walk. With over 10 years experience in pet care we understand that animals are just as unique as people and need tailored care to keep them healthy and happy.</p>
+        <p class="lead mb-4">We are a reliable and trustworthy husband and wife team, both life-long locals, who know the local area well, including all of the nice spots for a walk. With over 10 years experience in pet care we understand that animals are just as unique as people and need tailored care to keep them healthy and happy.</p>
         <div class="card-group">
             <div class="card about-us-card mr-4 mb-3">
                 <img class="card-img-top" src="./img/rach.jpg" alt="Rach photo">
@@ -32,7 +32,7 @@
                 <img class="card-img-top" src="./img/punk.jpg" alt="Sam photo">
                 <div class="card-body bg-dark text-white">
                     <h2 class="card-title main-heading">Punk</h2>
-                    <h5 class="card-text font-weight-normal">Head of Thousand Yard Stares</h5>
+                    <h5 class="card-text font-weight-normal">Office Supurrvisor</h5>
                 </div>
             </div>         
             <div class="card about-us-card mr-4 mb-3">

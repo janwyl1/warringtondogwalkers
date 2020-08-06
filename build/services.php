@@ -39,7 +39,6 @@
     </div>
     <div class="container-fluid my-4 py-4">
         <div class="container">
-           <hr class="mb-4">
             <h2 class="display-5 main-heading">Free, no-obligation 'Meet and Greet' service</h2>
             <p class="lead mb-4">Before any walks or sittings we offer a meet and greet service, this is free of charge and allows pets and owners to get to know us a little better. We can find out about your pet and what they love to do. We can also bring our ID, DBS certificates and insurance information.</p>
             <div id="carouselReviews" class="carousel slide mb-4" data-ride="carousel">
