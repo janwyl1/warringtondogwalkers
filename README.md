@@ -10,8 +10,6 @@ Built with HTML, CSS, JS and PHP
   src="https://i.imgur.com/0Gz7PJM.png"
 />
 
-# [Live Site](https://warringtondogwalkers.com)
-
 
 ### Setup
 1. Add Google Analytics Key and remove comments inside nav.php
